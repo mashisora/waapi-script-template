@@ -1,2 +1,29 @@
 # waapi-script-template
-A Wwise Authoring API Script Template
+
+A Wwise Authoring API Script Template in TypeScript.
+
+## Usage
+
+This Template use [waapic](https://github.com/mashisora/waapic) to communicate with Wwise Authoring Tool.
+
+### Install Dependencies
+
+```
+npm install
+```
+
+### Run Script
+
+Build your script directly.
+
+```
+npm run start
+```
+
+### Build Script
+
+Build your script into one js file using [@vercel/ncc](https://github.com/vercel/ncc).
+
+```
+npm run build
+```
