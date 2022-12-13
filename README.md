@@ -22,7 +22,7 @@ npm run start
 
 ### Build Script
 
-Build your script into one js file using [@vercel/ncc](https://github.com/vercel/ncc).
+Build your script into one js file for distribution. Powered by [@vercel/ncc](https://github.com/vercel/ncc).
 
 ```
 npm run build
