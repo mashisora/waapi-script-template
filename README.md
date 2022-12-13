@@ -4,7 +4,7 @@ A Wwise Authoring API Script Template in TypeScript.
 
 ## Usage
 
-This Template use [waapic](https://github.com/mashisora/waapic) to communicate with Wwise Authoring Tool.
+This template use [waapic](https://github.com/mashisora/waapic) to communicate with Wwise Authoring Tool.
 
 ### Install Dependencies
 
@@ -14,7 +14,7 @@ npm install
 
 ### Run Script
 
-Build your script directly.
+Run your script directly.
 
 ```
 npm run start
