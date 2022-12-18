@@ -5,7 +5,7 @@ try {
   const info = await client.call('ak.wwise.core.getInfo', {});
   console.log(`${info.displayName} ${info.version.displayName}`);
 
-  // Write your scripts there.
+  // Write your code.
   // ...
 
   await client.disconnect();

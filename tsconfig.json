@@ -5,8 +5,7 @@
     "module": "ESNEXT",
     "target": "ESNEXT",
     "strict": true,
-    "outDir": "dist",
-    "declaration": true
+    "outDir": "dist"
   },
   "include": ["src"],
   "exclude": ["node_modules"]
